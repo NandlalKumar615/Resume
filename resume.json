@@ -1,0 +1,63 @@
+{
+	"basics": {
+		"name": "NANDLAL KUMAR",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82512084?s=400&u=5e0588103a7050a0a81c03bcf92c923aafa9306b&v=4",
+		"email": "2020kucp1073@iiitkota.ac.in",
+		"phone": "8051127302",
+		"website": "https://nandlalkumar615.github.io/My_website/",
+		"summary": "I am pursuing B. Tech. in Computer Science and Engineering from Indian Institute of Information Technology, Kota and I have a keen interest in technology.",
+		"location": {
+			"address": "Anand Villa, North Mandiri",
+			"postalCode": "800001",
+			"city": "Patna",
+			"countryCode": "India",
+			"region": "Bihar"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Nandlal24289283",
+				"url": "https://twitter.com/Nandlal24289283"
+			},
+			{
+				"network": "Github",
+				"username": "NandlalKumar615",
+				"url": "https://github.com/NandlalKumar615"
+			},
+			{
+				"network": "linkedin",
+				"username": "Nandlal_Kumar",
+				"url": "https://www.linkedin.com/in/nandlal-kumar-01b97920b/"
+			},
+			{
+				"network": "Instagram",
+				"username": "nand_kr_",
+				"url": "https://www.instagram.com/nand_kr_/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "B.Tech",
+		"startDate": "2020-12-08 //Date",
+		"gpa": "8.5",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"publications": [{
+		"title": "CP Schedule Project",
+		"details": "This project is made by me in the 2nd semester, its main purpose is to help students in competitive programming.",
+		"link": "https://nandlalkumar615.github.io/CP_Schedule/"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Bootstrap", "Javascript", "PHP", "MySQL", "C"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Carrom", "Badminton"]
+	}],
+	"references": []
+}
